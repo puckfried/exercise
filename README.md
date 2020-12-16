@@ -1,1 +1,2 @@
-# README Überschrift
+# Collection of exercises
+
